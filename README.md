@@ -15,6 +15,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [GPT Index](https://github.com/jerryjliu/gpt_index) GPT Index is a project consisting of a set of data structures that are created using LLMs and can be traversed using LLMs in order to answer queries.
 - [langchain](https://github.com/hwchase17/langchain)⚡ Building applications with LLMs through composability ⚡
+- [Helicone AI](https://github.com/Helicone/helicone/) 🧊 Open-source LLM observability platform for logging, monitoring, and debugging AI applications. Simple 1-line integration to get started.
 - [Dust](https://dust.tt/) Prompt engineering, re-imagined🔥
 - [Prompts AI](https://github.com/sevazhidkov/prompts-ai) Prompts AI is an advanced GPT-3 playground.
 - [Declarai](https://github.com/vendi-ai/declarai) Declarai turns your Python code into LLM tasks, utilizing python's native syntax, like type hints and docstrings, to instruct an AI model on what to do.
